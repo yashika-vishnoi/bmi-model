@@ -1,1 +1,1 @@
-# bmi-model
+# BMI
